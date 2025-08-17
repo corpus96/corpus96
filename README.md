@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @corpus96
-- 👀 I’m interested in -> scripting, testing, machine learning and app development
+- 👀 I’m interested in -> Development Software specialized in the BAckedn scripting, testing, machine learning and app development
 - 🌱 I’m currently learning -> Java and Swing
 - 💞️ I’m looking to collaborate on -> I can learn and apply the knowledge I know
 - 📫 How to reach me -> corpus_e@outlook.com
